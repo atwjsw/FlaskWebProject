@@ -7,7 +7,7 @@ Example applications for Flask beginners.
 First, you need to clone this repository:
 
 ```bash
-$ git clone https://github.com/danielwen/FlaskWebProject.git
+$ git clone https://github.com/atwjsw/FlaskWebProject.git
 ```
 
 Then change into the `FlaskWebProject` folder:
